@@ -3,7 +3,7 @@ Readme
 
 Project description
 ---
-This projects consist in a simple web crawler that, given a starting URL, crawls all the 
+This project consists in a simple web crawler that, given a starting URL, crawls all the 
 pages it finds on the same domain. 
 
 It has been implemented in Java 11 and consists of two main Maven modules:
